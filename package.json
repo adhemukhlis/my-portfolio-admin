@@ -87,7 +87,7 @@
 				"sfcookies": "^1.0.2",
 				"smart-table-sort": "^2.0.5",
 				"swiper": "^5.3.7",
-				"three": "^0.115.0",
+				"three": "^0.137.0",
 				"twilio": "^3.42.2",
 				"typeface-roboto": "0.0.75",
 				"util": "^0.12.2"
